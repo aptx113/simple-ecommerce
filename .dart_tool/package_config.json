@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "pedantic",
-      "rootUri": "file:///home/dante/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1",
+      "rootUri": "file:///home/dante/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -14,7 +14,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-03-12T09:57:20.010832Z",
+  "generated": "2022-03-12T13:13:27.557715Z",
   "generator": "pub",
   "generatorVersion": "2.16.1"
 }
